@@ -1,0 +1,6 @@
+Python for Data Analysis	 genre:tech	 subgenre:data_science
+Pattern Classification	 genre:tech	 subgenre:data_science
+Data Analysis with Open Source Tools	 genre:tech	 subgenre:data_science
+Data Mining Handbook	 genre:tech	 subgenre:data_science
+Data Scientists at Work	 genre:tech	 subgenre:data_science
+Machine Learning for Hackers	 genre:tech	 subgenre:data_science
